@@ -1,3 +1,8 @@
+/*
+ * File: 101-natural.c
+ * Auth: Vincent kip
+ */
+
 #include<stdio.h>
 
 /**
